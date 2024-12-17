@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 this is the first line 
 This is the second line.
 this is the third line
 this is the fourth line.
 
+=======
+hello all, this is the second file
+hello all, this is the second file
+>>>>>>> images2
